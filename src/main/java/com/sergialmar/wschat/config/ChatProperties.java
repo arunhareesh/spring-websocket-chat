@@ -39,7 +39,7 @@ class ChatProperties {
 	}
 
 
-	static class Destinations {
+	public static class Destinations {
 
 		private String login;
 		
